@@ -2,15 +2,12 @@
 
 ## Project Documentation
 
----
 
 # 1. Introduction
 
 A Machine Learning Training Pipeline is a structured workflow that automates the process of collecting data, preprocessing it, training machine learning models, evaluating performance, and deploying models into production environments. The pipeline ensures consistency, scalability, reproducibility, and efficiency throughout the machine learning lifecycle.
 
 Modern machine learning systems require handling large volumes of data, continuous retraining, model monitoring, and automated workflows. This project focuses on designing a complete ML training pipeline capable of managing the end-to-end machine learning process efficiently.
-
----
 
 # 2. Problem Statement
 
