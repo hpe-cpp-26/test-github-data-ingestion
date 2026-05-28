@@ -14,7 +14,6 @@ Traditional monolithic systems often become difficult to scale and recover when 
 
 The objective of this project is to design a distributed system capable of identifying failures, isolating unhealthy components, and restoring normal operations automatically while minimizing downtime and maintaining system stability.
 
----
 
 # 3. Project Objectives
 
@@ -39,8 +38,6 @@ Continuously monitor system health, resource usage, and service behavior.
 ### Support Fault Tolerance
 
 Prevent a single failure from affecting the entire system.
-
----
 
 ## Secondary Objectives
 
