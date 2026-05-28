@@ -15,7 +15,6 @@ Building machine learning models manually is time-consuming, error-prone, and di
 
 The objective of this project is to develop an automated machine learning training pipeline that streamlines the complete ML workflow while improving reproducibility, scalability, and model performance.
 
----
 
 # 3. Project Objectives
 
