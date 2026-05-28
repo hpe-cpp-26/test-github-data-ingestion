@@ -2,15 +2,11 @@
 
 ## Project Documentation
 
----
-
 # 1. Introduction
 
 A Self-Healing Distributed System is a software architecture designed to automatically detect, recover, and adapt to failures without requiring manual intervention. Modern applications operate across multiple servers, services, and cloud environments, making failures unavoidable. This project focuses on building a resilient distributed platform capable of maintaining high availability and reliability even during unexpected failures.
 
 The system uses microservices, monitoring tools, automated recovery mechanisms, and intelligent failure detection techniques to ensure continuous operation.
-
----
 
 # 2. Problem Statement
 
