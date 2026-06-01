@@ -11,7 +11,6 @@ This document outlines the functional requirements, core workflows, API designs,
 ### Out of Scope
 *   Payment processing gateways, rating systems, surge pricing algorithms, UberEats, and physical deployment architecture (no databases, microservices, load balancers, or streaming clusters are defined here).
 
----
 
 ## 2. Core Functional Requirements
 
