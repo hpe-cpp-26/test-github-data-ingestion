@@ -24,7 +24,6 @@ This document outlines the functional requirements, core workflows, API designs,
 *   **Location Ping:** Active drivers automatically broadcast their precise GPS coordinates every 4 seconds.
 *   **Accept/Reject Trips:** Drivers receive a flash offer for a nearby ride and have 15 seconds to accept or decline.
 
----
 
 ## 3. Core Entities & Data Model
 
