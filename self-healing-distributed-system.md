@@ -57,15 +57,11 @@ Use AI or rule-based systems to analyze logs and anomalies.
 
 Reduce the need for manual monitoring and maintenance.
 
----
-
 # 4. Scope of the Project
 
 The project focuses on designing and implementing a distributed backend system with self-healing capabilities. The scope includes service monitoring, automated recovery, logging, failure detection, load balancing, and observability.
 
 The system is intended for cloud-native environments where high availability and resilience are essential.
-
----
 
 # 5. Features of the System
 
