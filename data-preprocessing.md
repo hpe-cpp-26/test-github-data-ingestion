@@ -2,7 +2,6 @@
 
 ## Project Documentation
 
----
 
 # 1. Introduction
 
@@ -10,7 +9,6 @@ Data preprocessing is one of the most critical stages in a Machine Learning Trai
 
 The Data Preprocessing Module is responsible for transforming raw data into a clean and structured format suitable for machine learning training. Proper preprocessing improves model accuracy, training efficiency, and overall system reliability.
 
----
 
 # 2. Purpose of Data Preprocessing
 
