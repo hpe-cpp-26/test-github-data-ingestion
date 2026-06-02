@@ -40,7 +40,6 @@ Continuously evaluate and improve model accuracy and reliability.
 
 Enable seamless deployment of trained models into production environments.
 
----
 
 ## Secondary Objectives
 
@@ -59,16 +58,12 @@ Support automated retraining with new incoming data.
 ### Enhance Monitoring
 
 Monitor model performance and detect degradation over time.
-
----
-
 # 4. Scope of the Project
 
 The project focuses on developing a complete machine learning pipeline that handles data ingestion, preprocessing, feature engineering, model training, validation, model storage, deployment, and monitoring.
 
 The system is designed to support multiple machine learning models and datasets while ensuring automation and scalability.
 
----
 
 # 5. Features of the System
 
