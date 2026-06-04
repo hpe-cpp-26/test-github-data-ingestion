@@ -45,4 +45,4 @@ The Control Plane handles all metadata, authentication, billing, search, recomme
 The Data Plane handles the heavy lifting of storing, caching, and serving actual video files to the end user. Rather than routing video traffic through standard cloud networks, a dedicated, custom-built Open Connect appliance network is deployed directly inside Internet Service Provider (ISP) facilities and Internet Exchange Points (IXPs).
 
 * **Open Connect Appliances (OCAs):** Embedded hardware servers pre-loaded with highly optimized operating systems and customized web servers tuned for maximum network throughput. OCAs cache encoded video chunks closer to the consumer's physical location.
-* **Manifest Manifestation:** When playing content, clients bypass the cloud completely for video streams, downloading static `.ts` or `.m4s` video segments directly from localized OCAs via HTTP/2 or HTTP/3.
+* **Manifest Manifestation:** When playing content, clients bypass the cloud completely for video streams, downloading static `.ts` or `.m4s` v
