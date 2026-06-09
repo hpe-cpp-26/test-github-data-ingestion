@@ -114,4 +114,3 @@ LLM Evaluation (LLM-as-a-Judge): Integrate automated semantics, truthfulness, to
 
 Shadow Deployment Automation: Seamlessly pipe a mirrored percentage of production traffic to the evaluation service for real-time, zero-impact evaluation.
 
-Dynamic Dataset Curation: Automatically update the evaluation data matrix when data drifts are detected by production monitoring services.
