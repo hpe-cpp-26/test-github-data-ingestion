@@ -70,7 +70,7 @@ uv run python -m app.tests.run_scenario --file examples/trip_query_tokyo.json
 
 ```
 
----
+
 
 ## Maintenance & Debugging
 
@@ -95,7 +95,7 @@ uv run python -m app.agents.travel_controller --verbose
 
 ```
 
----
+
 
 ## Troubleshooting
 
