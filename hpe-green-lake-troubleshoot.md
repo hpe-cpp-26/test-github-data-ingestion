@@ -64,9 +64,6 @@ sudo systemctl status hpe-metering-collector
 ```
 
 
-* **Step 4:** If the service fails to start, generate a diagnostic bundle and escalate to HPE Support.
-
----
 
 ## 3. Log Collection and Diagnostics
 
