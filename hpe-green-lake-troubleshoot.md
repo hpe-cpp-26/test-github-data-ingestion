@@ -63,7 +63,7 @@ sudo systemctl status hpe-metering-collector
 
 ```
 
-
+---
 
 ## 3. Log Collection and Diagnostics
 
