@@ -15,7 +15,6 @@
 5. [Non-Functional Requirements](#5-non-functional-requirements)
 6. [Compliance & Security](#6-compliance--security)
 
----
 
 ## 1. Introduction
 
